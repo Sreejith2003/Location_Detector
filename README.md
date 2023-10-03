@@ -23,6 +23,7 @@ How It Works:
 
   User Input: 
     The script prompts the user to enter a phone number with a + sign indicating the country code.
+    Enter the number with + : Write your phone number with your country code exmaple +91 
 
   Processing: 
     The script uses the phonenumbers library to parse the input phone number.
@@ -63,10 +64,13 @@ Conclusion:
   The Phone Number Information Extractor provides a foundational framework for extracting essential details from phone numbers. Its simplicity makes it a valuable tool for understanding basic information about phone numbers, which can be further integrated into various applications for enhanced functionality and user experience.
 
 
+Example Output:
+
+Enter the number with + : +1 650-253-0000
+Time Zone: ['America/Los_Angeles']
+SIM Card Provider: Google
+Region: United States
 
 
-
-
-
-
+Happy Reading :)
 
