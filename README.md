@@ -45,30 +45,39 @@ Information Extraction:
 Use Cases:
   Telecom Applications: 
     Useful for telecom service providers to provide users with information about their phone numbers.
+    
   User Verification:
     Helps in verifying user identities by understanding the country and carrier information.
+    
   Geolocation Services: 
     Useful for geolocation services to determine the geographical region based on the phone number.
+    
   Customer Support and Engagement:
     Can be utilized in customer support systems to route calls/messages or customize services based on the customer's location.
 
 Potential Enhancements:
+
   Error Handling: 
     Implement robust error handling to deal with various input scenarios.
+    
   Integration: 
     Integrate this functionality into larger applications where phone number information enhances user experience or business operations.
+    
   Database Integration: 
     Store and analyze extracted information for business intelligence and customer insights.
 
 Conclusion:
+
   The Phone Number Information Extractor provides a foundational framework for extracting essential details from phone numbers. Its simplicity makes it a valuable tool for understanding basic information about phone numbers, which can be further integrated into various applications for enhanced functionality and user experience.
 
 
 Example Output:
 
-Enter the number with + : +1 650-253-0000
+Enter the number with + : +1 650-253-0000                                                                                                     
 Time Zone: ['America/Los_Angeles']
+
 SIM Card Provider: Google
+
 Region: United States
 
 
